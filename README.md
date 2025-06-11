@@ -2,10 +2,6 @@
 
 Welcome to **LinkUp**, a modern, real-time chat application crafted with the best of the JavaScript ecosystem! Connect, converse, and collaborate with ease. Whether you’re building a community, chatting with friends, or collaborating on projects, LinkUp has you covered.
 
-![LinkUp Logo](https://avatars.githubusercontent.com/u/108415829?v=4)
-
----
-
 ## ✨ Features
 
 - **Real-Time Messaging:** Lightning-fast communication powered by Socket.io.
